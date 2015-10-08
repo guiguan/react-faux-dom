@@ -1,4 +1,4 @@
-var React = require('react')
+var React = require('react-native')
 var clone = require('lodash.clone')
 var styleAttr = require('style-attr')
 var camelCase = require('lodash.camelcase')
